@@ -13,20 +13,20 @@
 **Team:** none
 
 
-**Flags:** (0/47)
+**Flags:** (5/47)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
 
 
 # Challenges
-- [ ] [Verify](challenges/Verify)
-- [ ] [Scan_Surprise](challenges/Scan_Surprise)
+- [x] [Verify](challenges/Verify)
+- [x] [Scan_Surprise](challenges/Scan_Surprise)
 - [ ] [Binary_Search](challenges/Binary_Search)
 - [ ] [heap_0](challenges/heap_0)
 - [ ] [format_string_0](challenges/format_string_0)
-- [ ] [WebDecode](challenges/WebDecode)
-- [ ] [Unminify](challenges/Unminify)
+- [x] [WebDecode](challenges/WebDecode)
+- [x] [Unminify](challenges/Unminify)
 - [ ] [Time_Machine](challenges/Time_Machine)
 - [ ] [Super_SSH](challenges/Super_SSH)
 - [ ] [Secret_of_the_Polyglot](challenges/Secret_of_the_Polyglot)
@@ -41,7 +41,7 @@
 - [ ] [binhexa](challenges/binhexa)
 - [ ] [format_string_3](challenges/format_string_3)
 - [ ] [format_string_2](challenges/format_string_2)
-- [ ] [Trickster](challenges/Trickster)
+- [x] [Trickster](challenges/Trickster)
 - [ ] [No_Sql_Injection](challenges/No_Sql_Injection)
 - [ ] [heap_3](challenges/heap_3)
 - [ ] [heap_1](challenges/heap_1)
