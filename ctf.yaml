@@ -1,9 +1,56 @@
 general:
   ctf:
-    name: {{ .Env.CTF_NAME }}
-    description: |-
-      {{ .Env.CTF_DESCRIPTION }}
+    name: picoCTF-2024
+    description: ""
     urls:
-      - {{ .Env.CTF_URL }}
+      - https://play.picoctf.org/practice?originalEvent=73&page=1
     repo:
-      URL: {{ .Env.REPO_URL }}
+      URL: git@github.com:arch-err/picoCTF-2024.git
+challenges:
+  - name: Verify
+  - name: Scan_Surprise
+  - name: Binary_Search
+  - name: heap_0
+  - name: format_string_0
+  - name: WebDecode
+  - name: Unminify
+  - name: Time_Machine
+  - name: Super_SSH
+  - name: Secret_of_the_Polyglot
+  - name: IntroToBurp
+  - name: interencdec
+  - name: endianness
+  - name: Commitment_Issues
+  - name: Collaborative_Development
+  - name: CanYouSee
+  - name: Bookmarklet
+  - name: Blame_Game
+  - name: binhexa
+  - name: format_string_3
+  - name: format_string_2
+  - name: Trickster
+  - name: No_Sql_Injection
+  - name: heap_3
+  - name: heap_1
+  - name: dont-you-love-banners
+  - name: SansAlpha
+  - name: heap_2
+  - name: format_string_1
+  - name: Blast_from_the_past
+  - name: WinAntiDbg0x300
+  - name: WinAntiDbg0x200
+  - name: WinAntiDbg0x100
+  - name: weirdSnake
+  - name: rsa_oracle
+  - name: packer
+  - name: Mob_psycho
+  - name: FactCheck
+  - name: endianness-v2
+  - name: Dear_Diary
+  - name: Custom_encryption
+  - name: Classic_Crackme_0x100
+  - name: C3
+  - name: elements
+  - name: babygame03
+  - name: high_frequency_troubles
+  - name: flag_printer
