@@ -13,7 +13,7 @@
 **Team:** none
 
 
-**Flags:** (15/47)
+**Flags:** (18/47)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -29,9 +29,9 @@
 - [x] [Unminify](challenges/Unminify)
 - [x] [Time_Machine](challenges/Time_Machine)
 - [x] [Super_SSH](challenges/Super_SSH)
-- [ ] [Secret_of_the_Polyglot](challenges/Secret_of_the_Polyglot)
-- [ ] [IntroToBurp](challenges/IntroToBurp)
-- [ ] [interencdec](challenges/interencdec)
+- [x] [Secret_of_the_Polyglot](challenges/Secret_of_the_Polyglot)
+- [x] [IntroToBurp](challenges/IntroToBurp)
+- [x] [interencdec](challenges/interencdec)
 - [x] [endianness](challenges/endianness)
 - [x] [Commitment_Issues](challenges/Commitment_Issues)
 - [x] [Collaborative_Development](challenges/Collaborative_Development)
