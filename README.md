@@ -13,7 +13,7 @@
 **Team:** none
 
 
-**Flags:** (18/47)
+**Flags:** (22/47)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -23,8 +23,8 @@
 - [x] [Verify](challenges/Verify)
 - [x] [Scan_Surprise](challenges/Scan_Surprise)
 - [x] [Binary_Search](challenges/Binary_Search)
-- [ ] [heap_0](challenges/heap_0)
-- [ ] [format_string_0](challenges/format_string_0)
+- [x] [heap_0](challenges/heap_0)
+- [x] [format_string_0](challenges/format_string_0)
 - [x] [WebDecode](challenges/WebDecode)
 - [x] [Unminify](challenges/Unminify)
 - [x] [Time_Machine](challenges/Time_Machine)
@@ -44,10 +44,10 @@
 - [x] [Trickster](challenges/Trickster)
 - [ ] [No_Sql_Injection](challenges/No_Sql_Injection)
 - [ ] [heap_3](challenges/heap_3)
-- [ ] [heap_1](challenges/heap_1)
+- [x] [heap_1](challenges/heap_1)
 - [ ] [dont-you-love-banners](challenges/dont-you-love-banners)
 - [ ] [SansAlpha](challenges/SansAlpha)
-- [ ] [heap_2](challenges/heap_2)
+- [x] [heap_2](challenges/heap_2)
 - [ ] [format_string_1](challenges/format_string_1)
 - [ ] [Blast_from_the_past](challenges/Blast_from_the_past)
 - [ ] [WinAntiDbg0x300](challenges/WinAntiDbg0x300)
