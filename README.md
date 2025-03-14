@@ -13,7 +13,7 @@
 **Team:** none
 
 
-**Flags:** (23/47)
+**Flags:** (24/47)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -48,7 +48,7 @@
 - [ ] [dont-you-love-banners](challenges/dont-you-love-banners)
 - [ ] [SansAlpha](challenges/SansAlpha)
 - [x] [heap_2](challenges/heap_2)
-- [ ] [format_string_1](challenges/format_string_1)
+- [x] [format_string_1](challenges/format_string_1)
 - [ ] [Blast_from_the_past](challenges/Blast_from_the_past)
 - [ ] [WinAntiDbg0x300](challenges/WinAntiDbg0x300)
 - [ ] [WinAntiDbg0x200](challenges/WinAntiDbg0x200)
