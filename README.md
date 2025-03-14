@@ -13,7 +13,7 @@
 **Team:** none
 
 
-**Flags:** (22/47)
+**Flags:** (23/47)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -43,7 +43,7 @@
 - [ ] [format_string_2](challenges/format_string_2)
 - [x] [Trickster](challenges/Trickster)
 - [ ] [No_Sql_Injection](challenges/No_Sql_Injection)
-- [ ] [heap_3](challenges/heap_3)
+- [x] [heap_3](challenges/heap_3)
 - [x] [heap_1](challenges/heap_1)
 - [ ] [dont-you-love-banners](challenges/dont-you-love-banners)
 - [ ] [SansAlpha](challenges/SansAlpha)
